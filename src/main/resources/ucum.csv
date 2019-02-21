@@ -1,0 +1,347 @@
+Code;Synonym;Kind of Quantity;ConceptID
+%;%;Most Common Healthcare Units;Percent
+/uL;/uL;Most Common Healthcare Units;PerMicroLiter
+[iU]/L;IU/L;Most Common Healthcare Units;InternationalUnitsPerLiter
+10*3/uL;K/uL, x10^3/mm^3;Most Common Healthcare Units;ThousandsPerMicroLiter
+10*6/uL;M/uL, x10^6/mm^3;Most Common Healthcare Units;MillionsPerMicroLiter
+fL;fL;Most Common Healthcare Units;FemtoLiter
+g/dL;g/dL;Most Common Healthcare Units;GramsPerDeciLiter
+g/L;g/L;Most Common Healthcare Units;GramsPerLiter
+g/mL;g/mL;Most Common Healthcare Units;GramsPerMilliLiter
+kPa;kPa;Most Common Healthcare Units;KiloPascal
+m[iU]/mL;mIU/mL;Most Common Healthcare Units;MilliInternationalUnitsPerMilliLiter
+meq/L;mEq/L;Most Common Healthcare Units;MilliEquivalentsPerLiter
+mg/dL;mg/dL;Most Common Healthcare Units;MilliGramsPerDeciLiter
+mm[Hg];mm Hg;Most Common Healthcare Units;MilliMetersOfMercury
+mmol/kg;mmol/kg;Most Common Healthcare Units;MilliMolesPerKiloGram
+mmol/L;mmol/L;Most Common Healthcare Units;MilliMolesPerLiter
+mosm/kg;mOsm/kg;Most Common Healthcare Units;MilliOsmolesPerKiloGram
+ng/mL;ng/mL;Most Common Healthcare Units;NanoGramsPerMilliLiter
+nmol/L;nmol/L;Most Common Healthcare Units;NanoMolesPerLiter
+pg;pg;Most Common Healthcare Units;PicoGrams
+pg/mL;pg/mL;Most Common Healthcare Units;PicoGramsPerMilliLiter
+pmol/L;pmol/L;Most Common Healthcare Units;PicoMolesPerLiter
+U/L;U/L;Most Common Healthcare Units;UnitsPerLiter
+u[iU]/mL;uIU/mL;Most Common Healthcare Units;MicroInternationalUnitsPerMilliLiter
+ug/dL;ug/dL;Most Common Healthcare Units;MicroGramsPerDeciLiter
+ug/L;ug/L;Most Common Healthcare Units;MicroGramsPerLiter
+ug/mL;ug/mL;Most Common Healthcare Units;MicroGramsPerMilliLiter
+umol/L;umol/L;Most Common Healthcare Units;MicroMolesPerLiter
+[lg];log 10;Unity;Log10
+10*6/{Specimen};x10^6/spec;Unity;MillionPerSpecimen
+/{tot};/Total;Unity;PerTotalCount
+10*3;x10^3;Unity;Thousand
+10*3.{RBC};x10^3 RBCs;Unity;ThousandRedBloodCells
+10*5;x10^5;Unity;OneHundredThousand
+10*6;x10^6;Unity;Million
+10*8;x10^8;Unity;TenToEighth
+%;%;General Fraction Unit;Percent
+{Relative}%;Relative %;General Fraction Unit;RelativePercent
+%{Total};% of Total;General Fraction Unit;PercentTotal
+%{0to3Hours};% 0-3 h;General Fraction Unit;Percent0to3Hours
+/10*10;/10^10;Number Fraction Units;PerTenGiga
+/10*6;/10^6;Number Fraction Units;PerMillion
+/10*9;/10^9;Number Fraction Units;PerBillion
+/10*12;/10^12;Number Fraction Units;PerTrillion
+%{Normal};% Normal;Number Fraction Units;PercentNormal
+%{SpermMotility};% Sperm Motility;Number Fraction Units;PercentSpermMotility
+%{Positive};% Positive;Number Fraction Units;PercentPositive
+%{FetalErythrocytes};% Fetal RBC;Number Fraction Units;PercentFetalErythrocytes
+%{OfLymphocytes};% Lymphs;Number Fraction Units;PercentOfLymphocytes
+%{ofBacteria};% Bacteria;Number Fraction Units;PercentofBacteria
+%{OfWBCs};% WBCs;Number Fraction Units;PercentOfWBCs
+%{Abnormal};% Abnormal;Number Fraction Units;PercentAbnormal
+%{EosSeen};% EOS Seen;Number Fraction Units;PercentEosinophilsSeen
+%{Hemolysis};% Hemolysis;Number Fraction Units;PercentHemolysis
+%{Blockade};% Blockade;Number Fraction Units;PercentBlockade
+%/100{WBC};% per 100 WBC;Number Fraction Units;PercentPer100WBC
+%{Binding};% Binding;Mass Or Substance Fraction Units;PercentBinding
+%{TotalProtein};% Total Protein;Mass Or Substance Fraction Units;PercentTotalProtein
+%{Bound};% Bound;Mass Or Substance Fraction Units;PercentBound
+%{Hemoglobin};% Hgb;Mass Or Substance Fraction Units;PercentHemoglobin
+%{HemoglobinSaturation};% Hgb SAT;Mass Or Substance Fraction Units;PercentHemoglobinSaturation
+%{Carboxyhemoglobin};% CO Hgb;Mass Or Substance Fraction Units;PercentCarboxyhemoglobin
+%{HemoglobinA1C};% Hgb A1C;Mass Or Substance Fraction Units;PercentHemoglobinA1C
+%{Excretion};% Excretion;Mass Or Substance Rate Fraction Units;PercentExcretion
+%{Uptake};% Uptake;Mass Or Substance Rate Fraction Units;PercentUptake
+ug/ng;ug/ng;Mass Ratio Or Mass Fraction Or Mass Content Units;MicroGramsPerNanoGram
+ng/mg;ng/mg;Mass Ratio Or Mass Fraction Or Mass Content Units;NanoGramsPerMilliGram
+ng/mg{Protein};ng/mg Prot;Mass Ratio Or Mass Fraction Or Mass Content Units;NanoGramsPerMilliGramProtein
+ug/mg;ug/mg;Mass Ratio Or Mass Fraction Or Mass Content Units;MicroGramsPerMilliGram
+ug/mg{Cre};ug/mg Cre;Mass Ratio Or Mass Fraction Or Mass Content Units;MicroGramsPerMilliGramCreatinine
+mg/mg;mg/mg;Mass Ratio Or Mass Fraction Or Mass Content Units;MilliGramsPerMilliGram
+mg/mg{Cre};mg/mg Cre;Mass Ratio Or Mass Fraction Or Mass Content Units;MilligramsPerMilligramCreatinine
+ng/g;ng/g;Mass Ratio Or Mass Fraction Or Mass Content Units;NanoGramsPerGram
+ng/g{Cre};ng/g Cre;Mass Ratio Or Mass Fraction Or Mass Content Units;NanoGramsPerGramCreatinine
+ug/g;ug/g;Mass Ratio Or Mass Fraction Or Mass Content Units;MicroGramsPerGram
+ug/[100]g;ug/100 g;Mass Ratio Or Mass Fraction Or Mass Content Units;MicroGramPer100Gram
+ug/g{DryWeight};ug/g Dry Weight;Mass Ratio Or Mass Fraction Or Mass Content Units;MicroGramPerGramDryWeight
+ug/g{Cre};ug/g Cre;Mass Ratio Or Mass Fraction Or Mass Content Units;MicroGramPerGramCreatinine
+ug/g{Hgb};ug/g Hgb;Mass Ratio Or Mass Fraction Or Mass Content Units;MicroGramsPerGramHemoglobin
+mg/g;mg/g;Mass Ratio Or Mass Fraction Or Mass Content Units;MilliGramsPerGram
+mg/g{Cre};mg/g Cre;Mass Ratio Or Mass Fraction Or Mass Content Units;MilliGramPerGramCreatinine
+g/g;g/g;Mass Ratio Or Mass Fraction Or Mass Content Units;GramsPerGram
+ng/kg;ng/kg;Mass Ratio Or Mass Fraction Or Mass Content Units;NanoGramsPerKiloGram
+ug/kg;ug/kg;Mass Ratio Or Mass Fraction Or Mass Content Units;MicroGramsPerKiloGram
+mg/kg;mg/kg;Mass Ratio Or Mass Fraction Or Mass Content Units;MilliGramsPerKiloGram
+g/kg;g/kg;Mass Ratio Or Mass Fraction Or Mass Content Units;GramsPerKiloGram
+g/[100]g;g/100g;Mass Ratio Or Mass Fraction Or Mass Content Units;GramsPer100Gram
+g/g{Cre};g/g Cre;Mass Ratio Or Mass Fraction Or Mass Content Units;GramsPerGramCreatinine
+pmol/umol;pmol/umol;Substance Ratio Or Substance Fraction Units;PicoMolesPerMicroMole
+nmol/mmol;nmol/mmol;Substance Ratio Or Substance Fraction Units;NanoMolesPerMilliMole
+nmol/mmol{Cre};nmol/mmol Cre;Substance Ratio Or Substance Fraction Units;NanoMolesPerMilliMoleCreatinine
+nmol/mol;nmol/mol;Substance Ratio Or Substance Fraction Units;NanoMolesPerMole
+umol/mol;umol/mol;Substance Ratio Or Substance Fraction Units;MicroMolesPerMole
+mmol/mol;mmol/mol;Substance Ratio Or Substance Fraction Units;MilliMolesPerMole
+mmol/mol{Cre};mmol/mol Cre;Substance Ratio Or Substance Fraction Units;MilliMolesPerMoleCreatinine
+umol/mol{Cre};umol/mol Cre;Substance Ratio Or Substance Fraction Units;MicroMolesPerMoleCreatinine
+eq/umol;eq/umol;Substance Ratio Or Substance Fraction Units;EquivalentsPerMicroMole
+eq/mmol;eq/mmol;Substance Ratio Or Substance Fraction Units;EquivalentsPerMilliMole
+{BoneCollagen}eq/mmol{Cre};BCE/mmol Cre;Substance Ratio Or Substance Fraction Units;BoneCollagenEquivalentsPerMilliMoleCreatinine
+{BoneCollagen}eq/umol{Cre};BCE/umol Cre;Substance Ratio Or Substance Fraction Units;BoneCollagenEquivalentsPerMicroMoleCreatinine
+%{vol};Volume %;Volume Fraction Units;VolumePercent
+%{Oxygen};% Oxygen;Volume Fraction Units;PercentOxygen
+mL/dL;cc/dL;Volume Fraction Units;MilliLitersPerDeciLiter
+%{NormalPooledPlasma};% Normal Pooled Plasma;Catalytic Fraction Or Arbitrary Fraction Units;PercentNormalPooledPlasma
+%{Activity};% Activity;Catalytic Fraction Or Arbitrary Fraction Units;PercentActivity
+%{BasalActivity};% Basal Activity;Catalytic Fraction Or Arbitrary Fraction Units;PercentBasalActivity
+%{Inhibition};% Inhibition;Catalytic Fraction Or Arbitrary Fraction Units;PercentInhibition
+/{Entity};/Entity;Entitic Number Units;PerEntity
+/100{WBC};/100 WBCs;Entitic Number Units;Per100WBC
+/100;/100;Entitic Number Units;Per100
+/100{Spermatozoa};/100 Sperm;Entitic Number Units;Per100Spermatozoa
+/10*12{rbc};/10^12 RBCs;Entitic Number Units;PerTrillionRedBloodCells
+deg;Deg;Plane Angle Units;DegreesOfArc
+/[arb`U];/Arbitrary Unit;Arbitrary Number Units;PerArbitraryUnit
+u[iU];uIU;Arbitrary Units;MicroInternationalUnit
+[iU];IU;Arbitrary Units;InternationalUnit
+10*6.[iU];10^6  IU;Arbitrary Units;MillionInternationalUnit
+[in_i];in;English Length Units;Inch
+[ft_i];ft;English Length Units;Feet
+[yd_i];yd;English Length Units;Yard
+[fth_i];fathom;English Length Units;Fathom
+[mi_i];mi;English Length Units;StatuteMile
+[nmi_i];n mile;English Length Units;NauticalMile
+[Ch];French Unit;English Length Units;French
+fm;fm;SI Length Units;FemtoMeter
+pm;pm;SI Length Units;PicoMeter
+nm;nm;SI Length Units;NanoMeter
+um;um;SI Length Units;MicroMeter
+mm;mm;SI Length Units;MilliMeter
+cm;cm;SI Length Units;CentiMeter
+dm;dm;SI Length Units;DeciMeter
+m;m;SI Length Units;Meter
+km;km;SI Length Units;KiloMeter
+[gr];gr;English Mass Units;Grain
+[oz_av];oz;English Mass Units;Ounce
+[oz_tr];tr oz;English Mass Units;TroyOunce
+[lb_av];lb;English Mass Units;Pound
+[ston_av];Ton;English Mass Units;Ton
+[dr_av];dr;English Mass Units;Dram
+fg;fg;SI Mass Units;FemtoGram
+pg;pg;SI Mass Units;PicoGram
+ng;ng;SI Mass Units;NanoGram
+ug;ug;SI Mass Units;MicroGram
+ug/{TotalVolume};ug/Total Volume;SI Mass Units;MicroGramsPerTotalVolume
+ug/{Specimen};ug/Spec;SI Mass Units;MicroGramsPerSpecimen
+mg;mg;SI Mass Units;MilliGram
+mg/{Volume};mg/Volume;SI Mass Units;MilliGramsPerVolume
+mg/{TotalVolume};mg/Total Volume;SI Mass Units;MilliGramPerTotalVolume
+g;g;SI Mass Units;Gram
+g/{TotalWeight};g/Total Weight;SI Mass Units;GramsPerTotalWeight
+dg;dg;SI Mass Units;DeciGram
+cg;cg;SI Mass Units;CentiGram
+kg;kg;SI Mass Units;KiloGram
+t;Metric Ton;SI Mass Units;MetricTon
+pg/mm;pg/mm;Lineic Mass Units;PicoGramsPerMilliMeter
+K;K;Temperature Units;DegreesKelvin
+Cel;C;Temperature Units;DegreesCelsius
+[degF];F;Temperature Units;DegreesFahrenheit
+K/W;K/Watt;Thermal Resistance Units;KelvinPerWatt
+ps;ps;Time Units;PicoSecond
+ns;ns;Time Units;NanoSecond
+us;us;Time Units;MicroSecond
+ms;ms;Time Units;MilliSecond
+s;sec;Time Units;Second
+ks;ks;Time Units;KiloSecond
+Ms;Ms;Time Units;Megasecond
+min;min;Time Units;Minute
+h;h;Time Units;Hour
+d;d;Time Units;Day
+wk;wk;Time Units;Week
+mo;Mo;Time Units;Month
+a;yr;Time Units;Year
+eq;eq;Substance Units;Equivalent
+ueq;ueq;Substance Units;MicroEquivalent
+meq;meq;Substance Units;MilliEquivalent
+meq/{Specimen};meq/Spec;Substance Units;MilliEquivalentsPerSpecimen
+mol;mol;Substance Units;Mole
+mmol;mmol;Substance Units;MilliMole
+mmol/{TotalVolume};mmol/Total Volume;Substance Units;MilliMolesPerTotalVolume
+fmol;fmol;Substance Units;Femtomole
+pmol;pmol;Substance Units;PicoMole
+umol;umol;Substance Units;MicroMole
+nmol;nmol;Substance Units;NanoMole
+mosm;mosm;Substance Units;MilliOsmole
+meq/m2;meg/m^2;Areic Substance Units;MilliEquivalentsPerSquareMeter
+mmol/m2;mmol/m^2;Areic Substance Units;MilliMolesPerSquareMeter
+[sin_i];in^2;English Area Units;SquareInch
+[sft_i];ft^2;English Area Units;SquareFeet
+[syd_i];yd^2;English Area Units;SquareYard
+mm2;mm^2;SI Area Units;SquareMilliMeter
+cm2;cm^2;SI Area Units;SquareCentiMeter
+m2;m^2;SI Area Units;SquareMeter
+[foz_us];fl oz;English Volume Units;FluidOunce
+[cin_i];in^3;English Volume Units;CubicInch
+[cup_us];Cup;English Volume Units;Cup
+[pt_us];pt;English Volume Units;Pint
+[qt_us];qt;English Volume Units;Quart
+[gal_us];gal;English Volume Units;Gallon
+[fdr_us];fl dr;English Volume Units;FluidDram
+fL;fL;SI Volume Units;FemtoLiter
+pL;pL;SI Volume Units;PicoLiter
+nL;nL;SI Volume Units;NanoLiter
+uL;uL;SI Volume Units;MicroLiter
+mL;mL;SI Volume Units;MilliLiter
+mL/{h`b};mL/heart beat;SI Volume Units;MilliLitersPerHeartbeat
+L;L;SI Volume Units;Liter
+dL;dL;SI Volume Units;DeciLiter
+cL;cL;SI Volume Units;CentiLiter
+kL;kL;SI Volume Units;KiloLiter
+hL;hL;SI Volume Units;HectoLiter
+L.s2/s;L s^2/s;Volume Duration Units;LiterSquareSecondPerSecond
+/mg;mg;Number Content Units;PerMilliGram
+/g;/g;Number Content Units;PerGram
+/g{creat};/g Cre;Number Content Units;PerGramCreatinine
+/g{HGB};/g Hgb;Number Content Units;PerGramHemoglobin
+/g{tot`nit};/g Total Nitrogen;Number Content Units;PerGramTotalNitrogen
+/g{tot`prot};/g Total Protein;Number Content Units;PerGramTotalProtein
+/g{wet`tis};/g Wet Tissue;Number Content Units;PerGramWetTissue
+/kg;/kg;Number Content Units;PerKiloGram
+/kg{body`wt};/kg Body Weight;Number Content Units;PerKiloGramBodyWeight
+fmol/mg;fmol/mg;Substance Content Units;FemtoMolesPerMilliGram
+nmol/mg;nmol/mg;Substance Content Units;NanoMolesPerMilliGram
+umol/mg;umol/mg;Substance Content Units;MicroMolesPerMilliGram
+umol/mg{Cre};umol/mg Cre;Substance Content Units;MicroMolesPerMilliGramCreatinine
+mol/kg;mol/kg;Substance Content Units;MolesPerKiloGram
+fmol/g;fmol/gm;Substance Content Units;FemtoMolesPerGram
+nmol/g;nmol/g;Substance Content Units;NanoMolesPerGram
+nmol/g{Cre};nmol/g Cre;Substance Content Units;NanoMolesPerGramCreatinine
+umol/g;umol/g;Substance Content Units;MicroMolesPerGram
+umol/g{Cre};umol/g Cre;Substance Content Units;MicroMolesPerGramCreatinine
+umol/g{Hgb};umol/g Hgb;Substance Content Units;MicroMolesPerGramHemoglobin
+mmol/g;mmol/g;Substance Content Units;MilliMolesPerGram
+mmol/kg;mmol/kg;Substance Content Units;MilliMolesPerKiloGram
+osm/kg;Osm/kg;Substance Content Units;OsmolesPerKiloGram
+mosm/kg;mosm/kg;Substance Rate Content Units;MilliOsmolesPerKiloGram
+meq/g;meq/g;Substance Content Units;MilliEquivalentsPerGram
+meq/g{Cre};meq/g Cre;Substance Content Units;MilliEquivalentsPerGramCreatinine
+meq/kg;meq/kg;Substance Content Units;MilliEquivalentsPerKiloGram
+[iU]/g;IU/g;Arbitrary Concentration Content Units;InternationalUnitsPerGram
+[iU]/g{Hgb};IU/g Hgb;Arbitrary Concentration Content Units;InternationalUnitsPerGramHemoglobin
+{Ehrlich_U}/100g;EU/100 g;Arbitrary Concentration Content Units;EhrlichUnitsPer100Gram
+[iU]/kg;IU/kg;Arbitrary Concentration Content Units;InternationalUnitsPerKilogram
+umol/min/g;umol/min/g;Substance Rate Content Units;MicroMolesPerMinutePerGram
+mU/g;mU/g;Substance Rate Content Units;MilliUnitsPerGram
+mU/g{Hgb};mU/g Hgb;Substance Rate Content Units;MilliUnitsPerGramHemoglobin
+U/g;U/g;Substance Rate Content Units;UnitsPerGram
+U/g{Hgb};U/g Hgb;Substance Rate Content Units;UnitsPerGramHemoglobin
+U/g{Cre};U/g Cre;Substance Rate Content Units;UnitsPerGramCreatinine
+mU/mg{Cre};mU/mg Cre;Substance Rate Content Units;MilliUnitsPerMilliGramCreatinine
+mU/mg;mU/mg;Substance Rate Content Units;MilliUnitsPerMilligram
+kU/g;kU/g;Substance Rate Content Units;KiloUnitsPerGram
+kat/kg;kat/kg;Substance Rate Content Units;KatalPerKilogram
+mL/kg;mL/kg;Volume Content Units;MilliLitersPerKiloGram
+L/kg;L/kg;Volume Content Units;LitersPerKilogram
+kCal/[oz_av];kCal/oz;Energy Content Units;KiloCaloriesPerOunce
+/m2;/m^2;Areic Number Units;PerSquareMeter
+g/m2;g/m^2;Areic Mass Units;GramsPerSquareMeter
+kg/m2;kg/m^2;Areic Mass Units;KiloGramsPerSquareMeter
+ug/m2;ug/m^2;Areic Mass Units;MicroGramsPerSquareMeter
+mg/m2;mg/m^2;Areic Mass Units;MilliGramsPerSquareMeter
+ng/m2;ng/m^2;Areic Mass Units;NanoGramsPerSquareMeter
+g.m;Gram Meter;Massive Distance Units;GramMeter
+g.m/{hb};Gram Meter/Heartbeat;Massive Distance Units;GramMeterPerHeartbeat
+g.m/({hb}.m2);Gram Meter/Heartbeat/m^2;Lineic Mass Units;GramMeterPerHeartbeatPerSquareMeter
+kg/mol;kg/mol;Molar Mass Units;KiloGramsPerMole
+/uL;/mm^3;Number Concentration Units;PerMicroLiter
+{Cells}/uL;cells/uL;Number Concentration Units;CellsPerMicroLiter
+{rbc}/uL;RBC/mm^3;Number Concentration Units;RedBloodCellsPerMicroLiter
+10*3/uL;10^3/uL;Number Concentration Units;ThousandsPerMicroLiter
+10*6/uL;10^6/uL;Number Concentration Units;MillionsPerMicroLiter
+10*9/uL;10^9/uL;Number Concentration Units;BillionsPerMicroLiter
+/mL;/mL;Number Concentration Units;PerMilliLiter
+{Spermatozoa}/mL;Sperm/mL;Number Concentration Units;SpermatozoaPerMilliLiter
+{Copies}/mL;Copies/mL;Number Concentration Units;CopiesPerMilliLiter
+10*3/mL;10^3/mL;Number Concentration Units;ThousandPerMilliLiter
+10*3{Copies}/mL;10^3 copies/mL;Number Concentration Units;ThousandCopiesPerMilliLiter
+10*6/mL;10^6/mL;Number Concentration Units;MillionPerMilliLiter
+10*9/mL;10^9/mL;Number Concentration Units;BillionsPerMilliliter
+{cfu}/mL;cfu/mL;Number Concentration Units;ColonyFormingUnitsPerMilliLiter
+/dL;/dL;Number Concentration Units;PerDeciLiter
+/L;/L;Number Concentration Units;PerLiter
+10*3/L;10^3/L;Number Concentration Units;ThousandPerLiter
+10*6/L;10^6/L;Number Concentration Units;MillionPerLiter
+10*12/L;10^12/L;Number Concentration Units;TrillionPerLiter
+10*9/L;10^9/L;Number Concentration Units;BillionPerLiter
+pg/mL;pg/mL;Mass Concentration Units;PicoGramsPerMilliLiter
+ng/mL;ng/mL;Mass Concentration Units;NanoGramsPerMilliLiter
+ng/mL{rbc};ng/mL RBCs;Mass Concentration Units;NanoGramsPerMilliLiterRedBloodCells
+ug/mL;ug/mL;Mass Concentration Units;MicroGramsPerMilliLiter
+mg/mL;mg/mL;Mass Concentration Units;MilliGramsPerMilliLiter
+g/mL;g/mL;Mass Concentration Units;GramsPerMilliLiter
+pg/dL;pg/dL;Mass Concentration Units;PicoGramsPerDeciLiter
+ng/dL;ng/dL;Mass Concentration Units;NanoGramsPerDeciLiter
+ug/dL;ug/dL;Mass Concentration Units;MicroGramsPerDeciLiter
+ug/dL{rbc};ug/dL RBCs;Mass Concentration Units;MicroGramsPerDeciLiterRedBloodCells
+mg/dL;mg/dL;Mass Concentration Units;MilliGramsPerDeciLiter
+mg{Phenylketones}/dL;mg Phe/dL;Mass Concentration Units;MilliGramsPhenylketonesPerDeciLiter
+g/dL;g/dL;Mass Concentration Units;GramsPerDeciLiter
+ng/L;ng/L;Mass Concentration Units;NanoGramsPerLiter
+pg/L;pg/L;Mass Concentration Units;PicoGramsPerLiter
+ug/L;ug/L;Mass Concentration Units;MicroGramsPerLiter
+mg/L;mg/L;Mass Concentration Units;MilliGramsPerLiter
+g/L;g/L;Mass Concentration Units;GramsPerLiter
+kg/L;kg/L;Mass Concentration Units;KiloGramsPerLiter
+mg/m3;mg/m^3;Mass Concentration Units;MilliGramsPerCubicMeter
+kg/m3;kg/m^3;Mass Concentration Units;KiloGramsPerCubicMeter
+fmol/mL;fmol/mL;Substance Concentration Units;FemtoMolesPerMilliLiter
+pmol/mL;pmol/mL;Substance Concentration Units;PicoMolesPerMilliLiter
+nmol/mL;nmol/mL;Substance Concentration Units;NanoMolesPerMilliLiter
+umol/mL;umol/mL;Substance Concentration Units;MicroMolesPerMilliLiter
+mol/mL;mol/mL;Substance Concentration Units;MolesPerMilliLiter
+pmol/dL;pmol/dL;Substance Concentration Units;PicoMolesPerDeciLiter
+nmol/dL;nmol/dL;Substance Concentration Units;NanoMolesPerDeciLiter
+umol/dL;umol/dL;Substance Concentration Units;MicroMolesPerDeciLiter
+mmol/dL;mmol/dL;Substance Concentration Units;MilliMolesPerDeciLiter
+mmol/L;mmol/L;Substance Concentration Units;MilliMolesPerLiter
+pmol/L;pmol/L;Substance Concentration Units;PicoMolesPerLiter
+nmol/L;nmol/L;Substance Concentration Units;NanoMolesPerLiter
+umol/L;umol/L;Substance Concentration Units;MicroMolesPerLiter
+mol/L;mol/L;Substance Concentration Units;MolesPerLiter
+mol/m3;mol/m^3;Substance Concentration Units;MolesPerCubicMeter
+ueq/mL;ueq/mL;Substance Concentration Units;MicroEquivalentsPerMilliLiter
+meq/mL;meq/mL;Substance Concentration Units;MilliEquivalentPerMilliLiter
+eq/mL;eq/mL;Substance Concentration Units;EquivalentsPerMilliLiter
+{AHG}eq/mL;AHG eq/mL;Substance Concentration Units;AHGEquivalentsPerMilliLiter
+10*6.eq/mL;10^6 eq/mL;Substance Concentration Units;MillionEquivalentsPerMilliLiter
+ueq/L;ueg/L;Substance Concentration Units;MicroEquivalentsPerLiter
+meq/L;meg/L;Substance Concentration Units;MilliEquivalentsPerLiter
+eq/L;eg/L;Substance Concentration Units;EquivalentsPerLiter
+meq/dL;meg/dL;Substance Concentration Units;MilliEquivalentsPerDeciLiter
+mosm/L;mOsm/L;Substance Concentration Units;MilliOsmolesPerLiter
+osm/L;Osm/L;Substance Concentration Units;OsmolesPerLiter
+u[iU]/mL;uIU/mL;Arbitrary Concentration Units;MicroInternationalUnitsPerMilliLiter
+m[iU]/mL;mIU/mL;Arbitrary Concentration Units;MilliInternationalUnitsPerMilliLiter
+{IgGPhospholipid}U/mL;IgG Phospholipid U/mL;Arbitrary Concentration Units;IgGPhospholipidUnitsPerMilliLiter
+{IgMPhospholipid}U/mL;IgM Phospholipid U/mL;Arbitrary Concentration Units;IgMPhospholipidUnitsPerMilliLiter
+{ComplementCh50}U/mL;CH50 U/mL;Arbitrary Concentration Units;ComplementCh50UnitsPerMilliLiter
+{IgAPhospholipid}U/mL;IgA Phospholipid U/mL;Arbitrary Concentration Units;IgAPhospholipidUnitsPerMilliLiter
+{Elisa_U}/mL;Elisa U/mL;Arbitrary Concentration Units;ElisaUnitsPerMilliLiter
+[iU]/mL;IU/mL;Arbitrary Concentration Units;InternationalUnitsPerMilliLiter
+k[iU]/mL;kIU/mL;Arbitrary Concentration Units;KiloInternationalUnitsPerMilliLiter
+[iU]/dL;IU/dL;Arbitrary Concentration Units;InternationalUnitsPerDeciLiter
+{Ehrlich_U}/dL;EU/dL;Arbitrary Concentration Units;EhrlichUnitsPerDeciLiter
+m[iU]/L;mIU/L;Arbitrary Concentration Units;MilliInternationalUnitsPerLiter
+[iU]/L;IU/L;Arbitrary Concentration Units;InternationalUnitsPerLiter
+[pH];pH;pH Units;pH
